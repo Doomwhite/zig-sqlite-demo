@@ -4,7 +4,7 @@
 	.dependencies = .{
 		.sqlite = .{
 			.url = "https://github.com/vrischmann/zig-sqlite/archive/219faa2a5cd5a268a865a1100e92805df4b84610.tar.gz",
-			.hash = "1220ec81c175d203547aa534a4a1e03bf5938eee0581a3a5e1b35ab6a069b611fa7f",
+			.hash = "122088f0b73f5adcf07c9af8437c5149ed35c3f16f6393c330a294bdd5f91f069a08"
 		},
 	},
 }
